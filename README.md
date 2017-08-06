@@ -3,7 +3,11 @@
 Developer: Edward Jose Fitzgerald <br />
 Last Modified: 08/06/2017 (MM/DD/YYYY) <br />
 
-The project was created inside of eclipse using Java 8 on Windows 10. To compile the project you must compile the .java files using the Java Compiler. This can be done by downloading the Java SE Development Kit (JDK) from:
+The project was created inside of eclipse using Java 8 on Windows 10. <br />
+
+Download the GitHub repository as a .zip and extract the contents of the archive anywhere.<br />
+
+To compile the project you must compile the .java files using the Java Compiler. This can be done by downloading the Java SE Development Kit (JDK) from:
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html <br />
 
 My Java compiler was found under: <br />
