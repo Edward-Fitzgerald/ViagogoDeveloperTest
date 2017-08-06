@@ -5,6 +5,8 @@ Last Modified: 08/06/2017 (MM/DD/YYYY) <br />
 
 The project was created inside of eclipse using Java 8 on Windows 10. <br />
 
+# Compiling the program on Windows:<br />
+
 Download the GitHub repository as a .zip and extract the contents of the archive anywhere.<br />
 
 To compile the project you must compile the .java files using the Java Compiler. This can be done by downloading the Java SE Development Kit (JDK) from:
@@ -17,6 +19,15 @@ My Java compiler was found under: <br />
 The program was compiled using the following command (ensure that you have navigated to a folder that contains both ClosestUserEvents.java and Events.java): <br />
 
 "C:\Program Files\Java\jdk1.8.0_111\bin\javac.exe" ClosestUserEvents.java <br />
+
+# Alternative to compiling:<br />
+
+Download the GitHub repository as a .zip and extract the contents of the archive anywhere.<br />
+
+Use the pre-compiled .class files inside of the GitHub repository. Ensure that your computer has Java installed:
+https://www.java.com/en/
+
+# Executing the Java program:<br />
 
 It was then executed using (Note: the lack of .class at the end of the file): <br />
 
